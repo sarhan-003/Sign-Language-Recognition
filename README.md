@@ -22,7 +22,7 @@ Pytorch Implementation is given in sign_language_pytorch.ipynb
 
 
 <p>Read the entire process at:</p>
-<link>http://arshad-kazi.com/sign-language-recognition-using-cnn-and-opencv/</link>
+
 
 <h2>Similar Project(s)</h2>
 
